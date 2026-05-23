@@ -2,4 +2,4 @@
 
 ![Страница 1](CV-1.png)
 
-Скачать PDF: [CV.pdf](./CV.pdf)
+## Скачать PDF: [CV.pdf](./CV.pdf)
