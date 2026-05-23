@@ -1,5 +1,5 @@
 # Моё резюме
 
-![CV Preview](CV.png?v=2)
+![Страница 1](CV.png?v=2)
 
 ## Скачать PDF: [CV.pdf](./CV.pdf)
